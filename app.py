@@ -348,7 +348,7 @@ else:
     if st.button("Let's learn Now! 🚀"):
         try:
             # Specify the full path to the Streamlit app
-            app_path = r"C:\Users\vijay\Desktop\exp\New folder\quiz2.py"
+            app_path = r"quiz2.py"
             
             # Ensure the path exists
             if not os.path.exists(app_path):
